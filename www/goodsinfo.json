@@ -1,0 +1,161 @@
+{
+    "code": 200,
+    "msg": "成功!",
+    "data": [
+      {
+        "id": 1,
+        "title": "荣耀MagicBook",
+        "url": "https://img11.360buyimg.com/n7/jfs/t1/8764/35/4810/207189/5bdbf117E35599536/b3c83c8d840a4017.jpg",
+        "market_price": "3999.00",
+        "sell_price": "3799.00",
+        "goods_no": "MD1574893030",
+        "add_time": "2017-06-27",
+        "stock_quantity": 12000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 2,
+        "title": "联想(Lenovo)拯救者Y7000",
+        "url": "https://img11.360buyimg.com/n7/jfs/t27163/354/1454412463/213745/cb143ad4/5bc8229fN71106836.jpg",
+        "market_price": "5999.00",
+        "sell_price": "5799.00",
+        "goods_no": "MD1565893030",
+        "add_time": "2017-08-07",
+        "stock_quantity": 12000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 3,
+        "title": "戴尔灵越14",
+        "url": "https://img13.360buyimg.com/n7/jfs/t27079/197/2243249742/372035/10b3283b/5bfb8768N782c11e4.jpg",
+        "market_price": "5299.00",
+        "sell_price": "5099.00",
+        "goods_no": "MD1578793030",
+        "add_time": "2018-10-27",
+        "stock_quantity": 12000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 4,
+        "title": "联想(Lenovo)拯救者Y7000P",
+        "url": "https://img12.360buyimg.com/n7/jfs/t26416/155/2211830359/87136/8374ff42/5bfbc05dN92384e05.jpg",
+        "market_price": "9099.00",
+        "sell_price": "8999.00",
+        "goods_no": "MD1574093030",
+        "add_time": "2018-06-27",
+        "stock_quantity": 12000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 5,
+        "title": "联想(Lenovo)拯救者Y7000",
+        "url": "https://img10.360buyimg.com/n7/jfs/t22726/262/580437275/239541/d430d649/5b35ed15N703c1a90.jpg",
+        "market_price": "7499.00",
+        "sell_price": "7299.00",
+        "goods_no": "MD1664893030",
+        "add_time": "2018-03-27",
+        "stock_quantity": 17600,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 6,
+        "title": "戴尔DELL游匣G3烈焰版",
+        "url": "https://img12.360buyimg.com/n7/jfs/t24835/209/1155039247/350111/db1dd116/5b8c99c8N21ada48c.jpg",
+        "market_price": "6899.00",
+        "sell_price": "6799.00",
+        "goods_no": "MD1576663030",
+        "add_time": "2017-09-17",
+        "stock_quantity": 12080,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 7,
+        "title": "联想（Lenovo）拯救者Y7000",
+        "url": "https://img14.360buyimg.com/n7/jfs/t25459/319/1836435673/157232/b996260d/5bbdd590Na4ca01b4.jpg",
+        "market_price": "5999.00",
+        "sell_price": "5799.00",
+        "goods_no": "MD1574890030",
+        "add_time": "2017-11-07",
+        "stock_quantity": 15400,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 8,
+        "title": "惠普（HP）暗影精灵4代",
+        "url": "https://img14.360buyimg.com/n7/jfs/t20014/242/1061874564/87859/1352a4bd/5b13bbc8Nc24c1855.jpg",
+        "market_price": "6499.00",
+        "sell_price": "6399.00",
+        "goods_no": "MD1576655430",
+        "add_time": "2018-03-22",
+        "stock_quantity": 12000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 9,
+        "title": "联想(Lenovo)330C",
+        "url": "https://img11.360buyimg.com/n7/jfs/t25468/327/505003277/359498/708852ec/5b723894N7b459827.jpg",
+        "market_price": "4299.00",
+        "sell_price": "4099.00",
+        "goods_no": "MD1523393030",
+        "add_time": "2017-07-27",
+        "stock_quantity": 16000,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 10,
+        "title": "惠普（HP）战66 Pro",
+        "url": "https://img13.360buyimg.com/n7/jfs/t22897/282/1192249406/187153/a5252790/5b56eeb7N249809be.jpg",
+        "market_price": "5399.00",
+        "sell_price": "5299.00",
+        "goods_no": "MD1574693030",
+        "add_time": "2017-09-27",
+        "stock_quantity": 12033,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 11,
+        "title": "联想(Lenovo)拯救者Y7000",
+        "url": "https://img12.360buyimg.com/n7/jfs/t28282/292/699526200/143706/855f5dd9/5bfbc03fN9f3d7070.jpg",
+        "market_price": "8499.00",
+        "sell_price": "8399.00",
+        "goods_no": "MD1574333030",
+        "add_time": "2017-06-23",
+        "stock_quantity": 15550,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 12,
+        "title": "戴尔DELL燃7000 pro",
+        "url": "https://img12.360buyimg.com/n7/jfs/t27835/311/391193113/172143/e04a0b7/5b90c49cN3f0f7768.jpg",
+        "market_price": "5499.00",
+        "sell_price": "5299.00",
+        "goods_no": "MD4574893030",
+        "add_time": "2018-06-29",
+        "stock_quantity": 12700,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 13,
+        "title": "华硕顽石(ASUS)五代FL8000UF",
+        "url": "https://img13.360buyimg.com/n7/jfs/t27583/103/2373996017/103447/b10c1abb/5bff51ccNfd6830ee.jpg",
+        "market_price": "5199.00",
+        "sell_price": "4999.00",
+        "goods_no": "MD1574343030",
+        "add_time": "2018-06-09",
+        "stock_quantity": 16700,
+        "category": "笔记本电脑"
+      },
+      {
+        "id": 14,
+        "title": "联想(Lenovo)小新潮7000",
+        "url": "https://img11.360buyimg.com/n7/jfs/t27163/354/1454412463/213745/cb143ad4/5bc8229fN71106836.jpg",
+        "market_price": "5299.00",
+        "sell_price": "5199.00",
+        "goods_no": "MD1574898830",
+        "add_time": "2018-03-26",
+        "stock_quantity": 17000,
+        "category": "笔记本电脑"
+      }
+    ]
+  }
+  
